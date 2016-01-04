@@ -14,10 +14,7 @@ denen man den Status seines MoniPi anzeigen lassen kann.
 Für Chromium/Chrome und iOS stehen ebenfalls Ereiterungen und Apps zur Verfügung, prinzipiell sollte jede App
 funktionieren, die Nagios/Icinga Instanzen abfragen kann.
 
-Wenn man Bencachrichtigungen per Mail wünscht, muss man zunächst auf der Konsole 
-dem MoniPi Mailversand "beibringen und anschließend in der Wato Konfiguration 
+Wenn man Benachrichtigungen per Mail wünscht, muss man zunächst auf der Konsole 
+dem MoniPi Mailversand "beibringen" und anschließend in der Konfiguration von Check-MK
 entsprechende Notifications definieren.
-
-
-
 

@@ -11,8 +11,8 @@ Einrichtung des Raspberry Pi
 linuxmuster-OMD herunterladen
 -----------------------------
 
-Laden Sie das vorbereitete gepackte Raspbian-Image von .... auf Ihren Rechner herunter. Entpacken Sie die 
-Datei mit dem Befehl ``gunzip monipi.img.gz``.
+Laden Sie das vorbereitete gepackte Raspbian-Image `von der Wikiseite <http://www.linuxmuster.net/wiki/dokumentation:addons:monipi:start>`_ 
+auf Ihren Rechner herunter. Entpacken Sie die  Datei mit dem Befehl ``gunzip monipi.img.gz``.
 
 Image auf eine SD-Karte schreiben
 ---------------------------------

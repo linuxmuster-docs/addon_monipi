@@ -8,11 +8,11 @@ Einrichtung des Raspberry Pi
 .. hint:: Diese Anleitung geht davon aus, dass die folgenden Schritte auf einem Rechner mit Linux 
     als Betriebssystem durchgeführt werden.
 
-linuxmuster-OMD herunterladen
------------------------------
+Das linuxmuster-monipi-Image herunterladen
+-------------------------------------------
 
 Laden Sie das vorbereitete gepackte Raspbian-Image `von der Wikiseite <http://www.linuxmuster.net/wiki/dokumentation:addons:monipi:start>`_ 
-auf Ihren Rechner herunter. Entpacken Sie die  Datei mit dem Befehl ``gunzip monipi.img.gz``.
+auf Ihren Rechner herunter. Entpacken Sie die  Datei mit dem Befehl ``gunzip monipi_<version>.img.gz``.
 
 Image auf eine SD-Karte schreiben
 ---------------------------------

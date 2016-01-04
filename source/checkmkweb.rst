@@ -62,7 +62,7 @@ Schließen Sie den Vorgang mit einem Klick auf ``Save & go to Services`` ab.
    :alt: Konfiguration des neuen Hosts
 
 Wenn der Server unter der angegebenen IP-Adresse auf Port 6556 erreichbar ist, werden die 
-überwachten Dienste des Servers angezeigt, die die automatische Inventarsierung auf 
+überwachten Dienste des Servers angezeigt, die die automatische Inventarisierung auf 
 dem Server finden konnte.
 
 Übernehmen Sie diese Dienste mit einem Klick auf ``Automatic Refresh (Tabula Rasa)``.
@@ -76,7 +76,7 @@ ungespeicherte Änderungen gibt. Klicken Sie auf den orangenen Button.
 .. figure:: media/newhost03.png
    :alt: Hostliste mit ungespeicherten Änderungen 
 
-Die ungepeicherten Änderungen werden angezeigt, übernehmen Sie diese mit einem Klick
+Die ungespeicherten Änderungen werden angezeigt, übernehmen Sie diese mit einem Klick
 auf ``Activate Changes`` ins System.
 
 .. figure:: media/newhost04.png
@@ -87,7 +87,9 @@ Die Änderungen werden übernommen.
 .. figure:: media/newhost05.png
    :alt: Übernehmen der Änderungen
 
-Nun taucht der Server in der Hostliste der überwachten Systeme auf, wenn man im Menü ``Views`` den Punkt ``Hosts`` -> ``All Hosts`` öffnet. Durch einen Klick auf den Servernamen gelangt man zur Übersicht der überwachten Dienste.
+Nun taucht der Server in der Hostliste der überwachten Systeme auf, wenn man im
+Menü ``Views`` den Punkt ``Hosts`` -> ``All Hosts`` öffnet. Durch einen Klick
+auf den Servernamen gelangt man zur Übersicht der überwachten Dienste.
 
 .. figure:: media/hostservices01.png
    :alt: Liste der überwchten Hosts

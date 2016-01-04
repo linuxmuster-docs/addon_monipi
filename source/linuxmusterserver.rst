@@ -52,7 +52,7 @@ wie folgt:
 Die Beschränkung des Zugriffs auf bestimmte IP-Adressen ist aus Sicherheitsgründen sinnvoll, 
 kann aber erst dann erfolgen, wenn der Monitoring-Server (MoniPi) eine dauerhafte IP-Adresse hat.
 
-Starten Sie den xinetd mnach den Anpassungen neu: ``service xinetd restart``
+Starten Sie den xinetd nach den Anpassungen neu: ``service xinetd restart``
 
 Um zu überprüfen, ob die Einrichtung erfolgreich war, können Sie den Befehl ``telnet localhost 6556`` ausführen [#f1]_, 
 dabei sollte eine längere Ausgabe von Performancedaten die Folge sein:

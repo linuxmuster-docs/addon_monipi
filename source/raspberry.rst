@@ -81,7 +81,7 @@ administrativen Benutzer ``pi`` gesetzt.
 -   Melden Sie sich am Raspberry an. Benutzername im Auslieferungszustand ist ``pi``, das Passwort ``muster``
 -   Werden Sie root durch Eingabe des Befehls ``sudo -i``
 -   Führen Sie den Befehl ``monipi-turnkey`` aus und folgen Sie den Anweisungen. Geben Sie zweimal 
-    ein gutes Passwort für den adminisrativen Benutzer ein, wenn Sie dazu aufgefordert werden.
+    ein gutes Passwort für den administrativen Benutzer ein, wenn Sie dazu aufgefordert werden.
 
 .. code:: bash
 

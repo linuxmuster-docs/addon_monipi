@@ -1,7 +1,7 @@
 Benachrichtigungen im Fehlerfall
 ================================
 
-Auf dem MoniPi ist im Auslieferungszunstand kein aktiver Benachrichtigungsweg konfiguriert. i
+Auf dem MoniPi ist im Auslieferungszunstand kein aktiver Benachrichtigungsweg konfiguriert. 
 Um Fehler sehen zu können muss man sich am Webinterface anmelden, was natürlich nicht 
 alltagstauglich ist.
 

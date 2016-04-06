@@ -1,7 +1,7 @@
 Einrichtung des Raspberry Pi
 ============================
 
-.. attention:: Es ist unbedingt erforderlich, einen **Raspberry Pi 2** zu verwenden. 
+.. attention:: Es ist unbedingt erforderlich, einen **Raspberry Pi 2** oder einen **Raspberry Pi 3** [#f1]_ zu verwenden. 
     Die älteren Raspberry Pi Rechner haben einen anderen Prozessor verbaut 
     und sind zu schwach, um OMD zu betreiben!
 
@@ -137,3 +137,6 @@ Boot-Partition umfassen. Im Beispiel unten mit einer 32GB Karte sieht die Ausgab
     tmpfs           463M     88K  463M    1% /opt/omd/sites/default/tmp
 
 
+.. rubric:: Fussnoten
+
+.. [#f1] Bei Verwendung eines Raspberry Pi 3 muss darauf geachtet werden, dass man mindestenst die Version 1.1 des MoniPi Images zur Installation verwendet.

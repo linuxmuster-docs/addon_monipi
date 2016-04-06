@@ -6,7 +6,7 @@
 MoniPi für linuxmuster.net
 ======================================
 
-Das Projekt "MoniPi" stellt ein vorbereitetes Image für den Raspberry Pi 2 zur Verfügung, 
+Das Projekt "MoniPi" stellt ein vorbereitetes Image für den Raspberry Pi 2/Raspberry Pi 3 zur Verfügung, 
 mit dem ein kleines Netzwerk überwacht werden kann. 
 
 MoniPi basiert auf `Raspbian Jessie Lite <https://www.raspberrypi.org/downloads/raspbian/>`_ 
